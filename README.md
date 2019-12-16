@@ -6,7 +6,7 @@ Work on summarization has explored both reinforcement learning (RL) optimization
 
 Hoa T. Le, Christophe Cerisara, Claire Gardent. **Quality of syntactic implication of RL-based sentence summarization**. Association for the Advancement of Artificial Intelligence 2020 (**AAAI-20**) Workshop on Engineering Dependable and Secure Machine Learning Systems (EDSMLS 2020). (https://arxiv.org/abs/1912.05493)
 
-    @article{2019arXiv191205493L,
+    @article{HoaLe:2019,
            author = {{Le}, Hoa T. and {Cerisara}, Christophe and {Gardent}, Claire},
             title = "{Quality of syntactic implication of RL-based sentence summarization}",
           journal = {arXiv e-prints},
